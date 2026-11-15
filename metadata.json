@@ -1,0 +1,8 @@
+{
+  "name": "Dowóz-odwóz",
+  "description": "Aplikacja do ewidencji obecności uczniów podczas dowozów i odwozów szkolnych (GIMBUS i PKS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
