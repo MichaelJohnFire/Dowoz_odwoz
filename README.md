@@ -1,5 +1,5 @@
-Odwóz-Dowóz — System Ewidencji Obecności uczniów w Transporcie Szkolnym
-Odwóz-Dowóz to nowoczesna, w pełni lokalna (offline-first) aplikacja dla systemu Android, przeznaczona do szybkiej i intuicyjnej ewidencji obecności uczniów w pojazdach transportu szkolnego (gimbusach, przewozach PKS i autobusach szkolnych).
+Dowoz_odwoz — System Ewidencji Obecności uczniów w Transporcie Szkolnym
+Dowoz_odwoz to nowoczesna, w pełni lokalna (offline-first) aplikacja dla systemu Android, przeznaczona do szybkiej i intuicyjnej ewidencji obecności uczniów w pojazdach transportu szkolnego (gimbusach, przewozach PKS i autobusach szkolnych).
 Aplikacja została zaprojektowana z myślą o opiekunach przewozów szkolnych, zapewniając szybką obsługę na urządzeniach mobilnych i tabletach w warunkach dynamicznej pracy przy pojazdach.
 
 Kluczowe Funkcje
